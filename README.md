@@ -10,6 +10,7 @@
 - 🌎 International Student | Phi Kappa Phi Member 🏆
 
 📌 My Tech Stack:
+
 🔹 Languages: Python, JavaScript, SQL  
 🔹 Databases: MySQL, MongoDB  
 🔹 Web Development: HTML, CSS, React  
