@@ -14,7 +14,7 @@
 🔹 Languages: Python, JavaScript, SQL  
 🔹 Databases: MySQL, MongoDB  
 🔹 Web Development: HTML, CSS, React  
-🔹 Tools & Frameworks: Selenium, Pandas, Git, Bash, Docker  
+🔹 Tools & Frameworks: Pandas, Git, Bash  
 🔹 Testing & QA: Unit Testing, Automation, CI/CD
 
  📫 Connect with Me:
